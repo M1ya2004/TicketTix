@@ -96,6 +96,6 @@ Password : 1234
 
 ## 👩‍💻 Developer
 
-**Syaza**
+**Nursyaza Amira binti Ahmad Ghazali**
 Universiti Teknologi MARA (UiTM)
 Course: IMS566 — Advanced Web Design, Development and Content Management
